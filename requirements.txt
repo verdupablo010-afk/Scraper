@@ -2,3 +2,4 @@ flask
 flask-cors
 requests
 beautifulsoup4
+gunicorn==22.1.0
